@@ -4,6 +4,14 @@ A replacement to MagicalCrops since the dev seems to have poofed.
 
 This rewrite will automagically grab Ore Dictionary entries and create crops/seeds for them. Also includes a blacklist for any you don't want added.
 
+##Features!
+
+* Creates all crops dynamically from the Ore Dictionary. This is all done through NBT so it is not ID heavy.
+* Has a blacklist. You can stop any Ingot, Dust, or Gem from being registered as a crop within the config.
+* Blacklist changes only need a world reload, no MC restart required!
+* Extensive default blacklist. Anything that probably shouldn't have a crop already doesn't.
+* Integration with other mods to allow more balanced creation of their resources. Such as Thaumcraft Shard seeds being a research note.
+
 ##Dev setup
 
 ###Workspace Setup
