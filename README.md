@@ -22,7 +22,7 @@ All of these (must be deobfuscated) are required for the dev workspace to work c
 
 [Join my channel](https://webchat.esper.net/?channels=tehnut) (#TehNut) on [Espernet](https://www.esper.net/) and discuss there.
 
-##FAQ:
+##PWBAQ (Probably Will be Asked Questions):
 
 * __Are you allowed to do this?__
    
