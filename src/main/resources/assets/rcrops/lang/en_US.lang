@@ -1,0 +1,20 @@
+#CREATIVE TAB
+itemGroup.RCrops.creativeTab=Resourceful Crops
+
+#CONFIG
+config.RCrops.title=Resourceful Crops Configuration
+
+#BLOCKS
+tile.RCrops.ore.gaianite.name=Gaianite Ore
+tile.RCrops.ore.gaianite.nether.name=Nether Gaianite Ore
+tile.RCrops.crop.name=%s Crop
+
+#ITEMS
+item.RCrops.seed.name=%s Seeds
+
+#TOOLTIPS
+
+#CHAT
+
+#CONSOLE LOG
+info.RCrops.console.config.refresh=Refreshing configuration file.
